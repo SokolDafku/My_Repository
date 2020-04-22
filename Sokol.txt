@@ -1,1 +1,2 @@
 This is Sokol Dafku testing git functins
+Now testing pull from repository
